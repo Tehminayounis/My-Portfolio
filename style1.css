@@ -1,0 +1,25 @@
+form{
+    max-width: 500px;
+    background-color: blanchedalmond;
+    padding: 2px;
+    margin: auto;
+    border-radius: 10px;
+    overflow-x:hidden ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+label{
+display: block;
+
+}
+button:hover{
+    color: white;
+    background-color: bisque;
+}
+tr {
+    background-color: blanchedalmond;
+    
+}
+tr:nth-child(even) {
+    background-color: aquamarine;
+}
+    
